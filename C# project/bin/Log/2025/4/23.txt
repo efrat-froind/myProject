@@ -1,0 +1,21 @@
+23/04/2025 16:38:41	Dal.ClientImplementation	ReadAll	Start
+23/04/2025 16:38:41	Dal.ClientImplementation	ReadAll	End
+23/04/2025 16:38:41	Program	Main	Object reference not set to an instance of an object.
+23/04/2025 16:38:59	Dal.ClientImplementation	ReadAll	Start
+23/04/2025 16:38:59	Dal.ClientImplementation	ReadAll	End
+23/04/2025 16:38:59	Program	Main	Object reference not set to an instance of an object.
+23/04/2025 16:39:37	Dal.ClientImplementation	ReadAll	Start
+23/04/2025 16:39:37	Dal.ClientImplementation	ReadAll	End
+23/04/2025 16:39:37	Program	Main	Object reference not set to an instance of an object.
+23/04/2025 16:42:08	Dal.ClientImplementation	ReadAll	Start
+23/04/2025 16:42:08	Dal.ClientImplementation	ReadAll	End
+23/04/2025 16:42:08	Program	Main	Object reference not set to an instance of an object.
+23/04/2025 16:45:38	Dal.ProductImplementation	ReadAll	Start
+23/04/2025 16:45:38	Dal.ProductImplementation	ReadAll	End
+23/04/2025 16:45:45	Dal.SaleImplementation	ReadAll	Start
+23/04/2025 16:45:45	Dal.SaleImplementation	ReadAll	End
+23/04/2025 16:45:52	Dal.ProductImplementation	ReadAll	Start
+23/04/2025 16:45:52	Dal.ProductImplementation	ReadAll	End
+23/04/2025 16:45:59	Dal.ClientImplementation	ReadAll	Start
+23/04/2025 16:45:59	Dal.ClientImplementation	ReadAll	End
+23/04/2025 16:45:59	Program	Main	Object reference not set to an instance of an object.

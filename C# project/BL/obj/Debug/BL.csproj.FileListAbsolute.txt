@@ -1,0 +1,13 @@
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BL\obj\Debug\BL.AssemblyInfo.cs
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\bin\BL.deps.json
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\bin\BL.dll
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\bin\BL.pdb
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BL\obj\Debug\BL.csproj.Up2Date
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BL\obj\Debug\BL.dll
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BL\obj\Debug\refint\BL.dll
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BL\obj\Debug\BL.pdb
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BL\obj\Debug\ref\BL.dll

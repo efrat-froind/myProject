@@ -1,0 +1,13 @@
+Z:\B\פרוינד אפרת\c#\פרויקט\DotNet2025_8152_7426\bin\DalXml.deps.json
+Z:\B\פרוינד אפרת\c#\פרויקט\DotNet2025_8152_7426\bin\DalXml.dll
+Z:\B\פרוינד אפרת\c#\פרויקט\DotNet2025_8152_7426\bin\DalXml.pdb
+Z:\B\פרוינד אפרת\c#\פרויקט\DotNet2025_8152_7426\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+Z:\B\פרוינד אפרת\c#\פרויקט\DotNet2025_8152_7426\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פרוינד אפרת\c#\פרויקט\DotNet2025_8152_7426\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+Z:\B\פרוינד אפרת\c#\פרויקט\DotNet2025_8152_7426\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+Z:\B\פרוינד אפרת\c#\פרויקט\DotNet2025_8152_7426\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+Z:\B\פרוינד אפרת\c#\פרויקט\DotNet2025_8152_7426\DalXml\obj\Debug\DalXml.csproj.Up2Date
+Z:\B\פרוינד אפרת\c#\פרויקט\DotNet2025_8152_7426\DalXml\obj\Debug\DalXml.dll
+Z:\B\פרוינד אפרת\c#\פרויקט\DotNet2025_8152_7426\DalXml\obj\Debug\refint\DalXml.dll
+Z:\B\פרוינד אפרת\c#\פרויקט\DotNet2025_8152_7426\DalXml\obj\Debug\DalXml.pdb
+Z:\B\פרוינד אפרת\c#\פרויקט\DotNet2025_8152_7426\DalXml\obj\Debug\ref\DalXml.dll

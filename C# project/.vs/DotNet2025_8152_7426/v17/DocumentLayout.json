@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07EACA40-9577-4B26-A0C7-8A45F446BCF4}|DalTest\\DalTest.csproj|z:\\b\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\dotnet2025_8152_7426\\daltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EACA40-9577-4B26-A0C7-8A45F446BCF4}|DalTest\\DalTest.csproj|solutionrelative:daltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9117B4-F1A4-4733-9C39-6C1488719E8E}|DalXml\\DalXml.csproj|z:\\b\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\dotnet2025_8152_7426\\dalxml\\productimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9117B4-F1A4-4733-9C39-6C1488719E8E}|DalXml\\DalXml.csproj|solutionrelative:dalxml\\productimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC84DC9-937F-4807-9EE1-CF8161F0E02B}|BL\\BL.csproj|z:\\b\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\dotnet2025_8152_7426\\bl\\blapi\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC84DC9-937F-4807-9EE1-CF8161F0E02B}|BL\\BL.csproj|solutionrelative:bl\\blapi\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EACA40-9577-4B26-A0C7-8A45F446BCF4}|DalTest\\DalTest.csproj|z:\\b\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\dotnet2025_8152_7426\\daltest\\initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EACA40-9577-4B26-A0C7-8A45F446BCF4}|DalTest\\DalTest.csproj|solutionrelative:daltest\\initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1598D64-7523-4609-BE0E-FEA06B243984}|DalList\\DalList.csproj|z:\\b\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\dotnet2025_8152_7426\\dallist\\productimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1598D64-7523-4609-BE0E-FEA06B243984}|DalList\\DalList.csproj|solutionrelative:dallist\\productimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53091CF4-1D02-477D-8D36-D20F3C6AA86A}|xml{53091CF4-1D02-477D-8D36-D20F3C6AA86A}|Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\xml\\products.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{53091CF4-1D02-477D-8D36-D20F3C6AA86A}|xml{53091CF4-1D02-477D-8D36-D20F3C6AA86A}|solutionrelative:xml\\products.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53091CF4-1D02-477D-8D36-D20F3C6AA86A}|xml{53091CF4-1D02-477D-8D36-D20F3C6AA86A}|Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\xml\\clients.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{53091CF4-1D02-477D-8D36-D20F3C6AA86A}|xml{53091CF4-1D02-477D-8D36-D20F3C6AA86A}|solutionrelative:xml\\clients.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9117B4-F1A4-4733-9C39-6C1488719E8E}|DalXml\\DalXml.csproj|z:\\b\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\dotnet2025_8152_7426\\dalxml\\clientimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9117B4-F1A4-4733-9C39-6C1488719E8E}|DalXml\\DalXml.csproj|solutionrelative:dalxml\\clientimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53091CF4-1D02-477D-8D36-D20F3C6AA86A}|xml{53091CF4-1D02-477D-8D36-D20F3C6AA86A}|Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\xml\\sales.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{53091CF4-1D02-477D-8D36-D20F3C6AA86A}|xml{53091CF4-1D02-477D-8D36-D20F3C6AA86A}|solutionrelative:xml\\sales.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9117B4-F1A4-4733-9C39-6C1488719E8E}|DalXml\\DalXml.csproj|z:\\b\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\dotnet2025_8152_7426\\dalxml\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9117B4-F1A4-4733-9C39-6C1488719E8E}|DalXml\\DalXml.csproj|solutionrelative:dalxml\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9117B4-F1A4-4733-9C39-6C1488719E8E}|DalXml\\DalXml.csproj|z:\\b\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\dotnet2025_8152_7426\\dalxml\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9117B4-F1A4-4733-9C39-6C1488719E8E}|DalXml\\DalXml.csproj|solutionrelative:dalxml\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\BL\\BlApi\\Factory.cs",
+              "RelativeDocumentMoniker": "BL\\BlApi\\Factory.cs",
+              "ToolTip": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\BL\\BlApi\\Factory.cs",
+              "RelativeToolTip": "BL\\BlApi\\Factory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:30:29.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductImplementation.cs",
+              "DocumentMoniker": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\DalList\\ProductImplementation.cs",
+              "RelativeDocumentMoniker": "DalList\\ProductImplementation.cs",
+              "ToolTip": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\DalList\\ProductImplementation.cs",
+              "RelativeToolTip": "DalList\\ProductImplementation.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:26:47.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clients.xml",
+              "DocumentMoniker": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\xml\\clients.xml",
+              "RelativeDocumentMoniker": "xml\\clients.xml",
+              "ToolTip": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\xml\\clients.xml",
+              "RelativeToolTip": "xml\\clients.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-25T10:49:46.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientImplementation.cs",
+              "DocumentMoniker": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\DalXml\\ClientImplementation.cs",
+              "RelativeDocumentMoniker": "DalXml\\ClientImplementation.cs",
+              "ToolTip": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\DalXml\\ClientImplementation.cs",
+              "RelativeToolTip": "DalXml\\ClientImplementation.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAiwHoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:46:25.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\DalTest\\Program.cs",
+              "RelativeDocumentMoniker": "DalTest\\Program.cs",
+              "ToolTip": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\DalTest\\Program.cs",
+              "RelativeToolTip": "DalTest\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAA5wEgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:45:21.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Config.cs",
+              "DocumentMoniker": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\DalXml\\Config.cs",
+              "RelativeDocumentMoniker": "DalXml\\Config.cs",
+              "ToolTip": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\DalXml\\Config.cs",
+              "RelativeToolTip": "DalXml\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:51:02.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Initialization.cs",
+              "DocumentMoniker": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\DalTest\\Initialization.cs",
+              "RelativeDocumentMoniker": "DalTest\\Initialization.cs",
+              "ToolTip": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\DalTest\\Initialization.cs",
+              "RelativeToolTip": "DalTest\\Initialization.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:39:17.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaleImplementation.cs",
+              "DocumentMoniker": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\DalXml\\SaleImplementation.cs",
+              "RelativeDocumentMoniker": "DalXml\\SaleImplementation.cs",
+              "ToolTip": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\DalXml\\SaleImplementation.cs",
+              "RelativeToolTip": "DalXml\\SaleImplementation.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwGIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:37:39.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductImplementation.cs",
+              "DocumentMoniker": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\DalXml\\ProductImplementation.cs",
+              "RelativeDocumentMoniker": "DalXml\\ProductImplementation.cs",
+              "ToolTip": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\DalXml\\ProductImplementation.cs",
+              "RelativeToolTip": "DalXml\\ProductImplementation.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAA0wGkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:28:31.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sales.xml",
+              "DocumentMoniker": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\xml\\sales.xml",
+              "RelativeDocumentMoniker": "xml\\sales.xml",
+              "ToolTip": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\xml\\sales.xml",
+              "RelativeToolTip": "xml\\sales.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-25T07:28:47.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "products.xml",
+              "DocumentMoniker": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\xml\\products.xml",
+              "RelativeDocumentMoniker": "xml\\products.xml",
+              "ToolTip": "Z:\\B\\\u05E4\u05E8\u05D5\u05D9\u05E0\u05D3 \u05D0\u05E4\u05E8\u05EA\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\DotNet2025_8152_7426\\xml\\products.xml",
+              "RelativeToolTip": "xml\\products.xml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAE8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-25T07:28:22.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

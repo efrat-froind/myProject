@@ -1,0 +1,16 @@
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\bin\BlTest.exe
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\bin\BlTest.deps.json
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\bin\BlTest.runtimeconfig.json
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\bin\BlTest.dll
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\bin\BlTest.pdb
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BlTest\obj\Debug\BlTest.csproj.Up2Date
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BlTest\obj\Debug\BlTest.dll
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BlTest\obj\Debug\refint\BlTest.dll
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BlTest\obj\Debug\BlTest.pdb
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+G:\שיעורי בית\#c\פרויקט\DotNet2025_8152_7426\BlTest\obj\Debug\ref\BlTest.dll

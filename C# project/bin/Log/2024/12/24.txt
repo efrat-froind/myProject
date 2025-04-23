@@ -1,0 +1,14 @@
+24/12/2024 23:20:37	Dal.ClientImplementation	Create	Start
+24/12/2024 23:20:37	Dal.ClientImplementation	Create	End
+24/12/2024 23:20:37	Dal.ClientImplementation	Create	Start
+24/12/2024 23:20:37	Dal.ClientImplementation	Create	End
+24/12/2024 23:20:37	Dal.ProductImplementation	Create	Start
+24/12/2024 23:20:37	Dal.ProductImplementation	Create	End
+24/12/2024 23:20:37	Dal.ProductImplementation	Create	Start
+24/12/2024 23:20:37	Dal.ProductImplementation	Create	End
+24/12/2024 23:20:37	Dal.SaleImplementation	Create	Start
+24/12/2024 23:20:38	Dal.SaleImplementation	Create	End
+24/12/2024 23:20:38	Dal.SaleImplementation	Create	Start
+24/12/2024 23:20:38	Dal.SaleImplementation	Create	End
+24/12/2024 23:20:43	Dal.ProductImplementation	ReadAll	Start
+24/12/2024 23:20:43	Dal.ProductImplementation	ReadAll	End

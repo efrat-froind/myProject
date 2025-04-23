@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Client>
+    <id>10</id>
+    <userName>כהן חני</userName>
+    <address>רבי טרפון 23</address>
+    <phone>524876354</phone>
+  </Client>
+  <Client>
+    <id>11</id>
+    <userName>לוי רחל</userName>
+    <address>אור החיים 25</address>
+    <phone>527181558</phone>
+  </Client>
+  <Client>
+    <id>4213</id>
+    <userName>fgsdf</userName>
+    <address>gs</address>
+    <phone>0</phone>
+  </Client>
+</ArrayOfClient>
